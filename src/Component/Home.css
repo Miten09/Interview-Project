@@ -1,0 +1,46 @@
+body{
+    width: 100%;
+}
+
+.para{
+    color: white;
+    font-size:18px;
+    margin-top: -27%;
+    text-align-last: center;
+    margin-left: 0%;
+    color:white
+}
+
+.img1{
+    margin-top: 250px;
+    margin-left:55%;
+}
+.below{
+    margin-top: -22%;
+    font-size: 40px;
+    margin-left: 10%;
+    color: black;
+}
+.below1{
+    margin-left: 10%;
+    font-size: 17px;
+    color: black;
+}
+.img2{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.below2{
+    margin-left: 55%;
+    color: black;
+    font-size: 40px;
+    margin-top: -22%;
+}
+.below3{
+    color: black;
+    font-size: 17px;
+    margin-left: 55%;
+}
+.hel{
+    font-size: 50px;
+}

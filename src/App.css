@@ -1,0 +1,23 @@
+.auto{
+  background-color: white;
+  position: sticky;
+  top: 0%;
+  
+}
+.auto1{
+  position: relative;
+  left: 43%;
+  top: 0%;
+  color: black;
+}
+.auto2{
+  color: black;
+  margin-left: 5%;
+  font-size: 20px;
+  font-weight: bolder;
+  padding-top: 0.2%;
+}
+.auto1:hover{
+  background-color: orange;
+  border-radius: 10px 20px;
+}
